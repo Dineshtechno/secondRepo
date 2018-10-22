@@ -1,0 +1,2 @@
+select * from table_name
+* represent the all field of table
